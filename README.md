@@ -1,7 +1,7 @@
 # Jq Command Tutorials to Parse JSON Data in Bash Shell Scripting
 
 ## Get Links With Coupon Codes For Udemy Course Using Below Link
-Link ==> [Udemy Links With Coupon Codes] (https://www.youtube.com/watch?v=dg6hltm8VEE&t=0s)
+Link ==> [Udemy Links With Coupon Codes](https://www.youtube.com/watch?v=dg6hltm8VEE&t=0s)
 
 ## Get Videos For This Course Using Below Link
 Link ==> [Jq Command Tutorials Videos ](https://www.youtube.com/playlist?list=PL2qzCKTbjutJTacp6aRnGlt67ytp5M1qy)
